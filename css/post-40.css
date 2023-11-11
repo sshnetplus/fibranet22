@@ -1,0 +1,182 @@
+.elementor-40 .elementor-element.elementor-element-9520ef6:not(.elementor-motion-effects-element-type-background), .elementor-40 .elementor-element.elementor-element-9520ef6 > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-color: #0C0C0C;
+}
+
+.elementor-40 .elementor-element.elementor-element-9520ef6 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 39px 10px 39px 10px;
+}
+
+.elementor-40 .elementor-element.elementor-element-9520ef6 > .elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-40 .elementor-element.elementor-element-bf3f7f6 {
+    text-align: left;
+}
+
+.elementor-40 .elementor-element.elementor-element-bf3f7f6 img {
+    width: 48%;
+}
+
+.elementor-40 .elementor-element.elementor-element-dce497d .elementor-heading-title {
+    color: #FFFFFF;
+    font-family: "Arial", Sans-serif;
+    font-size: 17px;
+    font-weight: 300;
+}
+
+.elementor-40 .elementor-element.elementor-element-c5d3a02 {
+    --grid-template-columns: repeat(0, auto);
+    --icon-size: 23px;
+    --grid-column-gap: 5px;
+    --grid-row-gap: 0px;
+}
+
+.elementor-40 .elementor-element.elementor-element-c5d3a02 .elementor-widget-container {
+    text-align: left;
+}
+
+.elementor-40 .elementor-element.elementor-element-c5d3a02 .elementor-social-icon {
+    background-color: #33F916;
+}
+
+.elementor-40 .elementor-element.elementor-element-c5d3a02 > .elementor-widget-container {
+    margin: -6px 0px 0px 0px;
+}
+
+.elementor-40 .elementor-element.elementor-element-96c20ae .elementor-heading-title {
+    color: #33F916;;
+    font-family: "Exo", Sans-serif;
+    font-size: 19px;
+    font-weight: 600;
+}
+
+.elementor-40 .elementor-element.elementor-element-c24894c .elementor-icon-list-icon i {
+    transition: color 0.3s;
+}
+
+.elementor-40 .elementor-element.elementor-element-c24894c .elementor-icon-list-icon svg {
+    transition: fill 0.3s;
+}
+
+.elementor-40 .elementor-element.elementor-element-c24894c {
+    --e-icon-list-icon-size: 14px;
+    --icon-vertical-offset: 0px;
+}
+
+.elementor-40 .elementor-element.elementor-element-c24894c .elementor-icon-list-item > .elementor-icon-list-text, .elementor-40 .elementor-element.elementor-element-c24894c .elementor-icon-list-item > a {
+    font-family: "Exo", Sans-serif;
+    font-weight: 400;
+}
+
+.elementor-40 .elementor-element.elementor-element-c24894c .elementor-icon-list-text {
+    color: #B6B7B8;
+    transition: color 0.3s;
+}
+
+.elementor-40 .elementor-element.elementor-element-c24894c .elementor-icon-list-item:hover .elementor-icon-list-text {
+    color: #6E6BB5;
+}
+
+.elementor-40 .elementor-element.elementor-element-4170928 .elementor-heading-title {
+    color: #33F916;;
+    font-family: "Exo", Sans-serif;
+    font-size: 19px;
+    font-weight: 600;
+}
+
+.elementor-40 .elementor-element.elementor-element-2d8389e .elementor-icon-list-icon i {
+    transition: color 0.3s;
+}
+
+.elementor-40 .elementor-element.elementor-element-2d8389e .elementor-icon-list-icon svg {
+    transition: fill 0.3s;
+}
+
+.elementor-40 .elementor-element.elementor-element-2d8389e {
+    --e-icon-list-icon-size: 14px;
+    --icon-vertical-offset: 0px;
+}
+
+.elementor-40 .elementor-element.elementor-element-2d8389e .elementor-icon-list-item > .elementor-icon-list-text, .elementor-40 .elementor-element.elementor-element-2d8389e .elementor-icon-list-item > a {
+    font-family: "Exo", Sans-serif;
+    font-weight: 400;
+}
+
+.elementor-40 .elementor-element.elementor-element-2d8389e .elementor-icon-list-text {
+    color: #B6B7B8;
+    transition: color 0.3s;
+}
+
+.elementor-40 .elementor-element.elementor-element-2d8389e .elementor-icon-list-item:hover .elementor-icon-list-text {
+    color: #6E6BB5;
+}
+
+.elementor-40 .elementor-element.elementor-element-83f614c:not(.elementor-motion-effects-element-type-background), .elementor-40 .elementor-element.elementor-element-83f614c > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-color: #0C0C0C;
+}
+
+.elementor-40 .elementor-element.elementor-element-83f614c {
+    border-style: solid;
+    border-width: 1px 0px 0px 0px;
+    border-color: #FFFFFF;
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 10px 10px 10px 10px;
+}
+
+.elementor-40 .elementor-element.elementor-element-83f614c, .elementor-40 .elementor-element.elementor-element-83f614c > .elementor-background-overlay {
+    border-radius: 0px 0px 0px 0px;
+}
+
+.elementor-40 .elementor-element.elementor-element-83f614c > .elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-bc-flex-widget .elementor-40 .elementor-element.elementor-element-8867d9e.elementor-column .elementor-widget-wrap {
+    align-items: center;
+}
+
+.elementor-40 .elementor-element.elementor-element-8867d9e.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-40 .elementor-element.elementor-element-a5d7695 .elementor-heading-title {
+    color: #FFFFFF;
+    font-family: "Exo", Sans-serif;
+    font-size: 17px;
+    font-weight: 300;
+}
+
+@media(max-width: 767px) {
+    .elementor-40 .elementor-element.elementor-element-8867d9e {
+        width:80%;
+    }
+
+    .elementor-40 .elementor-element.elementor-element-d29cce3 {
+        width: 20%;
+    }
+}
+
+@media(min-width: 768px) {
+    .elementor-40 .elementor-element.elementor-element-a039a35 {
+        width:32.855%;
+    }
+
+    .elementor-40 .elementor-element.elementor-element-5e96d5b {
+        width: 34.525%;
+    }
+
+    .elementor-40 .elementor-element.elementor-element-e1a037d {
+        width: 32.284%;
+    }
+
+    .elementor-40 .elementor-element.elementor-element-8867d9e {
+        width: 95.65%;
+    }
+
+    .elementor-40 .elementor-element.elementor-element-d29cce3 {
+        width: 4.303%;
+    }
+}
